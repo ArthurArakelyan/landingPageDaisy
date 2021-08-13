@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'PF Encore Sans Pro Medium';
+  src: url('PFEncoreSansPro-Medium.eot');
+  src: url('PFEncoreSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+      url('PFEncoreSansPro-Medium.woff2') format('woff2'),
+      url('PFEncoreSansPro-Medium.woff') format('woff'),
+      url('PFEncoreSansPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PF Encore Sans Pro Light';
+  src: url('PFEncoreSansPro-Light.eot');
+  src: url('PFEncoreSansPro-Light.eot?#iefix') format('embedded-opentype'),
+      url('PFEncoreSansPro-Light.woff2') format('woff2'),
+      url('PFEncoreSansPro-Light.woff') format('woff'),
+      url('PFEncoreSansPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PF Encore Sans Pro Thin';
+  src: url('PFEncoreSansPro-Thin.eot');
+  src: url('PFEncoreSansPro-Thin.eot?#iefix') format('embedded-opentype'),
+      url('PFEncoreSansPro-Thin.woff2') format('woff2'),
+      url('PFEncoreSansPro-Thin.woff') format('woff'),
+      url('PFEncoreSansPro-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PF Encore Sans Pro Bold';
+  src: url('PFEncoreSansPro-Bold.eot');
+  src: url('PFEncoreSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+      url('PFEncoreSansPro-Bold.woff2') format('woff2'),
+      url('PFEncoreSansPro-Bold.woff') format('woff'),
+      url('PFEncoreSansPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
